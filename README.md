@@ -1,6 +1,6 @@
 # HelloMetal - Metal on iOS9 using Swift 2
 
-This is the updated version of the source for the article linked below. I was using the followign environment :
+This is the updated version of the source code for the article linked below. I was using the followign environment:
 
  -  iOS9
  -  Swift2
